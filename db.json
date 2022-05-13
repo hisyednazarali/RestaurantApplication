@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "mobile": 7417802074,
+      "address": "Noida",
+      "services": "chai"
+    },
+    {
+      "id": 3,
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "mobile": 7417802074,
+      "address": "Noida",
+      "services": "chai"
+    },
+    {
+      "id": 4,
+      "name": "hi",
+      "email": "hi@gmail.com",
+      "mobile": 7417852,
+      "address": "hbasdv",
+      "services": "hukka"
+    },
+    {
+      "id": 5,
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "mobile": 2897932873,
+      "address": "Noida",
+      "services": "Chaat and Chai"
+    },
+    {
+      "id": 6,
+      "name": "Zomato",
+      "email": "zomato#hotmial.com",
+      "mobile": 97123455566,
+      "address": "Okhla",
+      "services": "Chicken Tikka"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
